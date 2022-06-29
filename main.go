@@ -12,8 +12,15 @@ func reverse() {
 	retrun []arr
 }
 
-func checkIsPrime() {
+func checkIsPrime() bool {
 	// Check number is prime
+	var num int64 = 97
+	for i:=2; i<num; i++{
+		if num % i == 0 {
+			return false
+		}
+	}
+	return true
 }
 
 func main() {
