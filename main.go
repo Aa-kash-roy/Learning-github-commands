@@ -1,7 +1,15 @@
 package main
 
+import "fmt"
+
 func reverse() {
 	// Reverse the list
+	var arr []int32
+	for index, _ := range arr {
+		fmt.Println(index)
+	}
+
+	retrun []arr
 }
 
 func checkIsPrime() {
@@ -10,6 +18,7 @@ func checkIsPrime() {
 
 func main() {
 
+	// using the methods
 	reverse()
 	checkIsPrime()
 }
