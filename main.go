@@ -40,6 +40,7 @@ func multiply(a, b int){
 
 func divide(a, b float32){
 	// divide two numbers
+	return a / b
 }
 
 func main() {
