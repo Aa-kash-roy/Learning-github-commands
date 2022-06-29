@@ -23,6 +23,22 @@ func checkIsPrime() bool {
 	return true
 }
 
+func add(a, b int){
+	// add two elements
+}
+
+func subtract(a, b int){
+	// subtract two elements
+}
+
+func multiply(a, b int){
+	// multiply two numbers
+}
+
+func divide(a, b float32){
+	// divide two numbers
+}
+
 func main() {
 
 	// using the methods
