@@ -43,6 +43,10 @@ func divide(a, b float32){
 	return a / b
 }
 
+func help(){
+	// This method is helper function
+}
+
 func main() {
 
 	// using the methods
