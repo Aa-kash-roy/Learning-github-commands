@@ -30,6 +30,7 @@ func add(a, b int){
 
 func subtract(a, b int){
 	// subtract two elements
+	return a - b
 }
 
 func multiply(a, b int){
