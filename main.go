@@ -25,6 +25,7 @@ func checkIsPrime() bool {
 
 func add(a, b int){
 	// add two elements
+	return a + b
 }
 
 func subtract(a, b int){
